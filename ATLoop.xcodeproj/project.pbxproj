@@ -13,6 +13,7 @@
 		705E68801B234529002E2ED8 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 705E687F1B234529002E2ED8 /* Images.xcassets */; };
 		705E68831B234529002E2ED8 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 705E68811B234529002E2ED8 /* LaunchScreen.xib */; };
 		705E688F1B234529002E2ED8 /* ATLoopTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 705E688E1B234529002E2ED8 /* ATLoopTests.swift */; };
+		E8B3B79C1B2367E800ACCA00 /* RescueViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8B3B79B1B2367E800ACCA00 /* RescueViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		705E68881B234529002E2ED8 /* ATLoopTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ATLoopTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		705E688D1B234529002E2ED8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		705E688E1B234529002E2ED8 /* ATLoopTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ATLoopTests.swift; sourceTree = "<group>"; };
+		E8B3B79B1B2367E800ACCA00 /* RescueViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RescueViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 			isa = PBXGroup;
 			children = (
 				705E68781B234529002E2ED8 /* AppDelegate.swift */,
+				E8B3B79B1B2367E800ACCA00 /* RescueViewController.swift */,
 				705E687A1B234529002E2ED8 /* ViewController.swift */,
 				705E687C1B234529002E2ED8 /* Main.storyboard */,
 				705E687F1B234529002E2ED8 /* Images.xcassets */,
@@ -215,6 +218,7 @@
 			files = (
 				705E687B1B234529002E2ED8 /* ViewController.swift in Sources */,
 				705E68791B234529002E2ED8 /* AppDelegate.swift in Sources */,
+				E8B3B79C1B2367E800ACCA00 /* RescueViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -414,6 +418,7 @@
 				705E68941B234529002E2ED8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		705E68951B234529002E2ED8 /* Build configuration list for PBXNativeTarget "ATLoopTests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +427,7 @@
 				705E68971B234529002E2ED8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
