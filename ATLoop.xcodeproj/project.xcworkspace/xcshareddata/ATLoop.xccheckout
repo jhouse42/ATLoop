@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6379A06F-3DFB-49B2-90E1-4CED9A33C9C2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ATLoop</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3D072767731780535EF8B5B81C6019E4B05BB0F1</key>
+		<string>https://github.com/jhouse42/ATLoop.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ATLoop.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3D072767731780535EF8B5B81C6019E4B05BB0F1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jhouse42/ATLoop.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3D072767731780535EF8B5B81C6019E4B05BB0F1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3D072767731780535EF8B5B81C6019E4B05BB0F1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ATLoop</string>
+		</dict>
+	</array>
+</dict>
+</plist>
